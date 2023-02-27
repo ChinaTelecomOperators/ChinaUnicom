@@ -1,6 +1,6 @@
 # 联通余量
 
-[查看文档]([https://github.com/ChinaTelecomOperators/ChinaUnicom/wiki/%E6%96%87%E6%A1%A3](https://chinatelecomoperators.notion.site/iOS-6c4fc6433f28452b9e10aab1ed3eddc5))
+[查看文档](https://chinatelecomoperators.notion.site/iOS-6c4fc6433f28452b9e10aab1ed3eddc5)
 
 ## 免责声明
 
