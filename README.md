@@ -1,4 +1,8 @@
-# 免责声明
+# 联通余量
+
+[查看文档](https://github.com/ChinaTelecomOperators/ChinaUnicom/wiki/%E6%96%87%E6%A1%A3)
+
+## 免责声明
 
 本仓库或本仓库相关的仓库, 以下简称为本仓库.
 本仓库或本仓库相关的仓库的管理者, 以下简称为本仓库管理者.
